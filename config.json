@@ -5,7 +5,7 @@
       "password": "",
       "times": ["09:00", "15:00"],
       "roomid": "12884",
-      "seatid": ["016"],
+      "seatid": ["015"],
       "daysofweek": [
         "Monday",
         "Tuesday",
@@ -21,7 +21,7 @@
       "password": "",
       "times": ["15:00", "20:00"],
       "roomid": "12884",
-      "seatid": ["016"],
+      "seatid": ["015"],
       "daysofweek": [
         "Monday",
         "Tuesday",
